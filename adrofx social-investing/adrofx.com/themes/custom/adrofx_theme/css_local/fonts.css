@@ -1,0 +1,381 @@
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.eot");
+    src: url("../fonts/Roboto-Regulard41d.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Regular.svg#Roboto-Regular") format("svg"),
+    url("../fonts/Roboto-Regular.ttf") format("truetype"), url("../fonts/Roboto-Regular.woff") format("woff"),
+    url("../fonts/Roboto-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto-Italic";
+    src: url("../fonts/Roboto-Italic.eot");
+    src: url("../fonts/Roboto-Italicd41d.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Italic.svg#Roboto-Italic") format("svg"),
+    url("../fonts/Roboto-Italic.ttf") format("truetype"), url("../fonts/Roboto-Italic.woff") format("woff"),
+    url("../fonts/Roboto-Italic.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("../fonts/Roboto-Black.eot");
+    src: url("../fonts/Roboto-Blackd41d.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Black.svg#Roboto-Black") format("svg"), url("../fonts/Roboto-Black.ttf") format("truetype"),
+    url("../fonts/Roboto-Black.woff") format("woff"), url("../fonts/Roboto-Black.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("../fonts/Roboto-Bold.eot");
+    src: url("../fonts/Roboto-Boldd41d.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Bold.svg#Roboto-Bold") format("svg"), url("../fonts/Roboto-Bold.ttf") format("truetype"),
+    url("../fonts/Roboto-Bold.woff") format("woff"), url("../fonts/Roboto-Bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Akrobat-Regular";
+    src: url("../fonts/Akrobat-Regular.eot");
+    src: url("../fonts/Akrobat-Regulard41d.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Akrobat-Regular.svg#Akrobat-Regular") format("svg"),
+    url("../fonts/Akrobat-Regular.ttf") format("truetype"), url("../fonts/Akrobat-Regular.woff") format("woff"),
+    url("../fonts/Akrobat-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "icons";
+    src: url("../fonts/icons8016.eot?mnd66p");
+    src: url("../fonts/icons8016.eot?mnd66p#iefix") format("embedded-opentype"),
+    url("../fonts/icons8016.ttf?mnd66p") format("truetype"), url("../fonts/icons8016.woff?mnd66p") format("woff"),
+    url("../fonts/icons8016.svg?mnd66p#icons") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+/* ICONS  */
+.icon-freindly-ui:before {
+    content: "";
+}
+
+.icon-platforms:before {
+    content: "";
+}
+
+.icon-positions:before {
+    content: "";
+}
+
+.icon-profit-levels:before {
+    content: "";
+}
+
+.icon-scenary:before {
+    content: "";
+}
+
+.icon-tech-indicators:before {
+    content: "";
+}
+
+.icon-trsignals:before {
+    content: "";
+}
+
+.icon-min-leverage:before {
+    content: "";
+}
+
+.icon-info:before {
+    content: "";
+}
+
+.icon-account-currency:before {
+    content: "";
+}
+
+.icon-trading-instrument:before {
+    content: "";
+}
+
+.icon-commodities:before {
+    content: "";
+}
+
+.icon-world:before {
+    content: "";
+}
+
+.icon-employees:before {
+    content: "";
+}
+
+.icon-fast-execution:before {
+    content: "";
+}
+
+.icon-minus:before {
+    content: "";
+}
+
+.icon-plus:before {
+    content: "";
+}
+
+.icon-search:before {
+    content: "";
+}
+
+.icon-allpips:before {
+    content: "";
+}
+
+.icon-no-fees:before {
+    content: "";
+}
+
+.icon-cloud-vps:before {
+    content: "";
+}
+
+.icon-market-execution:before {
+    content: "";
+}
+
+.icon-trading-robot:before {
+    content: "";
+}
+
+.icon-deposit-bonus:before {
+    content: "";
+}
+
+.icon-instruments-setings:before {
+    content: "";
+}
+
+.icon-leverage:before {
+    content: "";
+}
+
+.icon-currancies:before {
+    content: "";
+}
+
+.icon-lot-size:before {
+    content: "";
+}
+
+.icon-no-comission:before {
+    content: "";
+}
+
+.icon-min-deposit:before {
+    content: "";
+}
+
+.icon-min-spread:before {
+    content: "";
+}
+
+.icon-guide:before {
+    content: "";
+}
+
+.icon-manage-accounts:before {
+    content: "";
+}
+
+.icon-monitoring:before {
+    content: "";
+}
+
+.icon-operations-client:before {
+    content: "";
+}
+
+.icon-quotes-news:before {
+    content: "";
+}
+
+.icon-mt4:before {
+    content: "";
+}
+
+.icon-download:before {
+    content: "";
+}
+
+.icon-x24:before {
+    content: "";
+}
+
+.icon-account-control:before {
+    content: "";
+}
+
+.icon-analytical-objects:before {
+    content: "";
+}
+
+.icon-analyze-markets:before {
+    content: "";
+}
+
+.icon-bars-types:before {
+    content: "";
+}
+
+.icon-ineractive-symbol-chart:before {
+    content: "";
+}
+
+.icon-make-trades:before {
+    content: "";
+}
+
+.icon-manage-account:before {
+    content: "";
+}
+
+.icon-orders:before {
+    content: "";
+}
+
+.icon-technical-indicators:before {
+    content: "";
+}
+
+.icon-timeframes:before {
+    content: "";
+}
+
+.icon-trades-history:before {
+    content: "";
+}
+
+.icon-whatclist-alerts:before {
+    content: "";
+}
+
+.icon-callback:before {
+    content: "";
+}
+
+.icon-live-chat:before {
+    content: "";
+}
+
+.icon-contact-email:before {
+    content: "";
+}
+
+.icon-arrow-back:before {
+    content: "";
+}
+
+.icon-forex:before {
+    content: "";
+}
+
+.icon-time:before {
+    content: "";
+}
+
+.icon-shares:before {
+    content: "";
+}
+
+.icon-crypto:before {
+    content: "";
+}
+
+.icon-metals:before {
+    content: "";
+}
+
+.icon-indices:before {
+    content: "";
+}
+
+.icon-contract-details:before {
+    content: "";
+}
+
+.icon-swaps:before {
+    content: "";
+}
+
+.icon-spreads:before {
+    content: "";
+}
+
+.icon-Layer-2:before {
+    content: "";
+}
+
+.icon-phone:before {
+    content: "";
+}
+
+.icon-email:before {
+    content: "";
+}
+
+.icon-android:before {
+    content: "";
+}
+
+.icon-apple:before {
+    content: "";
+}
+
+.icon-arrow-down:before {
+    content: "";
+}
+
+.icon-close:before {
+    content: "";
+}
+
+.icon-login:before {
+    content: "";
+}
+
+.icon-menu:before {
+    content: "";
+}
+
+.icon-multiterminal:before {
+    content: "";
+}
+
+.icon-readmore:before {
+    content: "";
+}
+
+.icon-webtrader:before {
+    content: "";
+}
+
+.icon-windows:before {
+    content: "";
+}
+
+.icon-role::before {
+    content: "";
+}
