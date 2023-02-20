@@ -260,7 +260,7 @@ document.documentElement.className += ' js';
               scripts = document.getElementsByTagName('script')[0];
             script.src = url;
             script.async = true;
-            scripts.parentNode.insertBefore(script, scripts);
+            //scripts.parentNode.insertBefore(script, scripts);
           }
         }
       };
